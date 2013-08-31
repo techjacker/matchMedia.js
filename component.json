@@ -9,8 +9,8 @@
     "type": "git",
     "url": "git://github.com/paulirish/matchMedia.js"
   },
-  "main": "./matchMedia.js",
+  "main": "matchMedia.js",
   "scripts": [
-    "./matchMedia.js"
+    "matchMedia.js"
   ]
 }
